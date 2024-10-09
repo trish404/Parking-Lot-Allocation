@@ -40,7 +40,9 @@ The following Java classes are part of this project:
    java VehicleSelection
 ## Future Improvements
 **Pathfinding Algorithms**: Implement advanced pathfinding algorithms such as Dijkstra or A* to optimize vehicle allocation.
+
 **Real-time Data**: Integrate real-time vehicle tracking and update the graph dynamically.
+
 **UI Enhancements**: Improve the user interface to make it more intuitive and responsive.
 
 ## Dependencies
